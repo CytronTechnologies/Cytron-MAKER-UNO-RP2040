@@ -1,11 +1,13 @@
 """
 DESCRIPTION:
-This example code will use Maker Uno RP2040 to read analog value from a potentiometer
+This example code will use Maker Uno RP2040 to read analog value from Maker Soil Module
 and display the reading in the REPL panel. This code applicable to any analog sensor.
 
 CONNECTION:
 
-GP27 - OUT pin of the potentiometer
+Grove 5 of Maker Uno RP2040 : Maker Soil Module
+
+GP29 - OUT pin of the Maker Soil Module
 
 AUTHOR   : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
@@ -17,8 +19,8 @@ import board
 import time
 import analogio
 
-#Define analog pin GP27 used on the board
-sensor = analogio.AnalogIn(board.A4)
+#Define analog pin GP29 used on the board
+sensor = analogio.AnalogIn(board.GP29)
 
 while True:
     #Serial print the sensor value every 1 second
