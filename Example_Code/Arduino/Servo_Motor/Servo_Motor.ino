@@ -1,6 +1,8 @@
 /*
 DESCRIPTION:
-This example code will use Maker UNO RP2040 to control four servo motors connected to the onboard servo ports
+This example code will use Maker UNO RP2040 to control four servo motors connected to the onboard servo ports.
+The servo motor will sweep from 0° to 180° with an increment of 1° every 10 milliseconds. 
+Then  the servos moves back from 180 degrees to 0 degrees with a decrement of 1 degree every each 10 milliseconds.
 
 AUTHOR   : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
