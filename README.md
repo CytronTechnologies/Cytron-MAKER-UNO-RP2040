@@ -22,9 +22,11 @@ You will need the following hardware and software:
 
 **Software:**
 
-* To install CircuitPython firmware on your Maker Uno RP2040, you can download the firmware for [CircuitPython on Maker Uno RP2040]( https://circuitpython.org/board/cytron_maker_uno_rp2040/).
-* For Arduino you can follow this instruction to [Install Arduino Board Manager](https://github.com/earlephilhower/arduino-pico#installing-via-arduino-boards-manager).
-* For MicroPython, we have not created a custom firmware yet. For now, you can use [Pico MicroPyhton Firmware](https://micropython.org/download/rp2-pico/)
+
+
+  * To install CircuitPython firmware on your Maker Uno RP2040, you can download the firmware for [CircuitPython on Maker Uno RP2040](https://circuitpython.org/board/cytron_maker_uno_rp2040/).
+  * For Arduino you can follow this instruction to [Install Arduino Board Manager](https://github.com/earlephilhower/arduino-pico#installing-via-arduino-boards-manager).
+  * For MicroPython, we have not created a custom firmware yet. For now, you can use [Pico MicroPyhton Firmware](https://micropython.org/download/rp2-pico/)
 
 ## Resources
 For more information on the Maker Uno RP2040, please visit the resources section of the product page:
