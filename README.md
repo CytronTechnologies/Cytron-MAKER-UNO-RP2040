@@ -2,6 +2,7 @@
 The [Cytron Maker Uno RP2040](https://my.cytron.io/p-maker-uno-rp2040) brings the power of the **Raspberry Pi® RP2040** chip into the familiar **Uno form factor**. It maintains the user-friendly nature of Uno all while utilizing the advanced capabilities of the RP2040. Not only that, this board also equipped with Maker series features along with other useful features.
 
 ![Maker Uno RP2040](https://github.com/CytronTechnologies/Cytron-MAKER-UNO-RP2040/blob/main/Images/rp2040-labeled.png)
+![Features labelled](https://github.com/CytronTechnologies/Cytron-MAKER-UNO-RP2040/blob/main/Images/MAKER-UNO-RP2040-features-labelled.png)
 
 ## Pinout Diagram
 ![Maker Uno RP2040 Pinout Diagram](https://github.com/CytronTechnologies/Cytron-MAKER-UNO-RP2040/blob/main/Images/MAKER-UNO-RP2040-pinout-diagram.png)
