@@ -26,7 +26,7 @@ Code Editor/IDEs:
 * For CircuitPython and MicroPython software like [Mu Editor](https://codewith.mu/) and [Thonny IDE](https://thonny.org/) is commonly used.
 * For Arduino programming language, please intall [Arduino IDE](https://www.arduino.cc/en/software/).
 
-Fimrware:
+Firmware:
 * To install CircuitPython firmware on your Maker Uno RP2040, you can download the firmware for [CircuitPython on Maker Uno RP2040](https://circuitpython.org/board/cytron_maker_uno_rp2040/).
 * For Arduino you can follow this instruction to [Install Arduino Board Manager](https://github.com/earlephilhower/arduino-pico#installing-via-arduino-boards-manager).
 * For MicroPython, we have not created a custom firmware yet. For now, you can use [Pico MicroPyhton Firmware](https://micropython.org/download/rp2-pico/)
