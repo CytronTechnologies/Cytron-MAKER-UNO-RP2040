@@ -9,7 +9,7 @@ The [Cytron Maker Uno RP2040](https://my.cytron.io/p-maker-uno-rp2040) brings th
 
 ## Getting Started & Examples
 
-In this repository, we provide [example code](/Example_Code) code to help you get started programming the board using Arduino IDE, CircuitPython, or MicroPython. These examples briefly cover basic usage of the onboard components and some external components such as OLED display, digital sensor, and analog sensor.
+In this repository, we provide [example code](/Example_Code) code to help you get started programming the board using Arduino IDE, CircuitPython, or MicroPython. These examples cover basic usage of the onboard components and some external components such as OLED display, digital sensor, and analog sensor.
 
 You will need the following hardware and software:  
 
