@@ -13,7 +13,7 @@ In this repository, we provide [example code](/Example_Code) code to help you ge
 
 You will need the following hardware and software:  
 
-**Hardware:**
+### **Hardware:**
 * [Maker Uno RP2040](https://my.cytron.io/p-maker-uno-rp2040)
 * [TS90A Micro Servo](https://my.cytron.io/p-analog-micro-servo-9g-3v-6v) 
 * [Maker Soil Sensor]( https://my.cytron.io/p-maker-soil-moisture-sensor)
@@ -23,10 +23,9 @@ You will need the following hardware and software:
 **Software:**
 
 
-
-  * To install CircuitPython firmware on your Maker Uno RP2040, you can download the firmware for [CircuitPython on Maker Uno RP2040](https://circuitpython.org/board/cytron_maker_uno_rp2040/).
-  * For Arduino you can follow this instruction to [Install Arduino Board Manager](https://github.com/earlephilhower/arduino-pico#installing-via-arduino-boards-manager).
-  * For MicroPython, we have not created a custom firmware yet. For now, you can use [Pico MicroPyhton Firmware](https://micropython.org/download/rp2-pico/)
+* To install CircuitPython firmware on your Maker Uno RP2040, you can download the firmware for [CircuitPython on Maker Uno RP2040](https://circuitpython.org/board/cytron_maker_uno_rp2040/).
+* For Arduino you can follow this instruction to [Install Arduino Board Manager](https://github.com/earlephilhower/arduino-pico#installing-via-arduino-boards-manager).
+* For MicroPython, we have not created a custom firmware yet. For now, you can use [Pico MicroPyhton Firmware](https://micropython.org/download/rp2-pico/)
 
 ## Resources
 For more information on the Maker Uno RP2040, please visit the resources section of the product page:
