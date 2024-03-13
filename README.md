@@ -30,10 +30,13 @@ For more information on the Maker Uno RP2040, please visit the resources section
 * [Maker Uno RP2040 Resources](https://my.cytron.io/p-maker-uno-rp2040/#tab-resource)
 
 ## Tutorial  
-Head to our Getting Started Guide on our website to find step-by-step instructions and tutorials for setting up your Maker Uno RP2040 for Arduino IDE and CircuitPython.
+Head to our Getting Started Guide on our website to find step-by-step instructions and tutorials for setting up your Maker Uno RP2040 for Arduino IDE and CircuitPython:
+
 * [Getting Started With Maker Uno RP2040](https://my.cytron.io/tutorial/getting-started-guide-with-maker-uno-rp2040)
 
-Check out other exciting projects that can be done using the [Maker Uno RP2040](https://my.cytron.io/p-maker-uno-rp2040) board.
+
+Check out other exciting projects that can be done using the [Maker Uno RP2040](https://my.cytron.io/p-maker-uno-rp2040) board:
+
 * [Offline Dino Game Cheat with Maker Uno RP2040](https://my.cytron.io/tutorial/offline-dino-game-cheat-with-maker-uno-rp2040)
 * [DHT11 Sensor Data Logging using Maker Uno RP2040](https://my.cytron.io/tutorial/data-logging-maker-uno-rp2040)
 * [Play Game using Joystick on Maker Uno RP2040](https://my.cytron.io/tutorial/joystick-maker-uno-rp2040)
