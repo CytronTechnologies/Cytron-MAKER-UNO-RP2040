@@ -25,7 +25,7 @@ https://wiki.seeedstudio.com/Grove-OLED-Display-0.96-SSD1315/
 #include <Wire.h>
 #endif
 
-U8G2_SSD1306_128X64_NONAME_F_SW_I2C u8g2(U8G2_R0, /* clock(SCL)*/ A5, /*data(SDA)*/ A4, /* reset=*/ U8X8_PIN_NONE);
+U8G2_SSD1306_128X64_NONAME_F_SW_I2C u8g2(U8G2_R0, /* clock(SCL)*/ SCL, /*data(SDA)*/ SDA, /* reset=*/ U8X8_PIN_NONE);
 
 void setup(void) {
   u8g2.begin();
